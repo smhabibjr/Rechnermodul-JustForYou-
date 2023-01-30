@@ -1,0 +1,12 @@
+H:\3. Lehrjahr\Dammmüller\all_module\ValidationLibrary\ValidationLibrary\bin\Debug\net5.0\ValidationLibrary.deps.json
+H:\3. Lehrjahr\Dammmüller\all_module\ValidationLibrary\ValidationLibrary\bin\Debug\net5.0\ValidationLibrary.dll
+H:\3. Lehrjahr\Dammmüller\all_module\ValidationLibrary\ValidationLibrary\bin\Debug\net5.0\ref\ValidationLibrary.dll
+H:\3. Lehrjahr\Dammmüller\all_module\ValidationLibrary\ValidationLibrary\bin\Debug\net5.0\ValidationLibrary.pdb
+H:\3. Lehrjahr\Dammmüller\all_module\ValidationLibrary\ValidationLibrary\obj\Debug\net5.0\ValidationLibrary.csproj.AssemblyReference.cache
+H:\3. Lehrjahr\Dammmüller\all_module\ValidationLibrary\ValidationLibrary\obj\Debug\net5.0\ValidationLibrary.GeneratedMSBuildEditorConfig.editorconfig
+H:\3. Lehrjahr\Dammmüller\all_module\ValidationLibrary\ValidationLibrary\obj\Debug\net5.0\ValidationLibrary.AssemblyInfoInputs.cache
+H:\3. Lehrjahr\Dammmüller\all_module\ValidationLibrary\ValidationLibrary\obj\Debug\net5.0\ValidationLibrary.AssemblyInfo.cs
+H:\3. Lehrjahr\Dammmüller\all_module\ValidationLibrary\ValidationLibrary\obj\Debug\net5.0\ValidationLibrary.csproj.CoreCompileInputs.cache
+H:\3. Lehrjahr\Dammmüller\all_module\ValidationLibrary\ValidationLibrary\obj\Debug\net5.0\ValidationLibrary.dll
+H:\3. Lehrjahr\Dammmüller\all_module\ValidationLibrary\ValidationLibrary\obj\Debug\net5.0\ref\ValidationLibrary.dll
+H:\3. Lehrjahr\Dammmüller\all_module\ValidationLibrary\ValidationLibrary\obj\Debug\net5.0\ValidationLibrary.pdb

@@ -1,0 +1,12 @@
+H:\3. Lehrjahr\Dammmüller\MathematischeLibrary\MathematischeLibrary\bin\Debug\net5.0\MathematischeLibrary.deps.json
+H:\3. Lehrjahr\Dammmüller\MathematischeLibrary\MathematischeLibrary\bin\Debug\net5.0\MathematischeLibrary.dll
+H:\3. Lehrjahr\Dammmüller\MathematischeLibrary\MathematischeLibrary\bin\Debug\net5.0\ref\MathematischeLibrary.dll
+H:\3. Lehrjahr\Dammmüller\MathematischeLibrary\MathematischeLibrary\bin\Debug\net5.0\MathematischeLibrary.pdb
+H:\3. Lehrjahr\Dammmüller\MathematischeLibrary\MathematischeLibrary\obj\Debug\net5.0\MathematischeLibrary.csproj.AssemblyReference.cache
+H:\3. Lehrjahr\Dammmüller\MathematischeLibrary\MathematischeLibrary\obj\Debug\net5.0\MathematischeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+H:\3. Lehrjahr\Dammmüller\MathematischeLibrary\MathematischeLibrary\obj\Debug\net5.0\MathematischeLibrary.AssemblyInfoInputs.cache
+H:\3. Lehrjahr\Dammmüller\MathematischeLibrary\MathematischeLibrary\obj\Debug\net5.0\MathematischeLibrary.AssemblyInfo.cs
+H:\3. Lehrjahr\Dammmüller\MathematischeLibrary\MathematischeLibrary\obj\Debug\net5.0\MathematischeLibrary.csproj.CoreCompileInputs.cache
+H:\3. Lehrjahr\Dammmüller\MathematischeLibrary\MathematischeLibrary\obj\Debug\net5.0\MathematischeLibrary.dll
+H:\3. Lehrjahr\Dammmüller\MathematischeLibrary\MathematischeLibrary\obj\Debug\net5.0\ref\MathematischeLibrary.dll
+H:\3. Lehrjahr\Dammmüller\MathematischeLibrary\MathematischeLibrary\obj\Debug\net5.0\MathematischeLibrary.pdb

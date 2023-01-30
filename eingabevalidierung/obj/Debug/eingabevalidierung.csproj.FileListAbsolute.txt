@@ -1,0 +1,8 @@
+C:\Users\Habib\Desktop\2-hour-challenge\dotNet\eingabevalidierung\eingabevalidierung\bin\Debug\eingabevalidierung.exe.config
+C:\Users\Habib\Desktop\2-hour-challenge\dotNet\eingabevalidierung\eingabevalidierung\bin\Debug\eingabevalidierung.exe
+C:\Users\Habib\Desktop\2-hour-challenge\dotNet\eingabevalidierung\eingabevalidierung\bin\Debug\eingabevalidierung.pdb
+C:\Users\Habib\Desktop\2-hour-challenge\dotNet\eingabevalidierung\eingabevalidierung\obj\Debug\eingabevalidierung.csproj.AssemblyReference.cache
+C:\Users\Habib\Desktop\2-hour-challenge\dotNet\eingabevalidierung\eingabevalidierung\obj\Debug\eingabevalidierung.csproj.SuggestedBindingRedirects.cache
+C:\Users\Habib\Desktop\2-hour-challenge\dotNet\eingabevalidierung\eingabevalidierung\obj\Debug\eingabevalidierung.csproj.CoreCompileInputs.cache
+C:\Users\Habib\Desktop\2-hour-challenge\dotNet\eingabevalidierung\eingabevalidierung\obj\Debug\eingabevalidierung.exe
+C:\Users\Habib\Desktop\2-hour-challenge\dotNet\eingabevalidierung\eingabevalidierung\obj\Debug\eingabevalidierung.pdb

@@ -1,0 +1,12 @@
+H:\3. Lehrjahr\Dammmüller\schule-modul\scholl-grades-library\SchoolGradesLibrary\SchoolGradesLibrary\bin\Debug\SchoolGradesLibrary.dll
+H:\3. Lehrjahr\Dammmüller\schule-modul\scholl-grades-library\SchoolGradesLibrary\SchoolGradesLibrary\bin\Debug\SchoolGradesLibrary.pdb
+H:\3. Lehrjahr\Dammmüller\schule-modul\scholl-grades-library\SchoolGradesLibrary\SchoolGradesLibrary\obj\Debug\SchoolGradesLibrary.csproj.CoreCompileInputs.cache
+H:\3. Lehrjahr\Dammmüller\schule-modul\scholl-grades-library\SchoolGradesLibrary\SchoolGradesLibrary\obj\Debug\SchoolGradesLibrary.dll
+H:\3. Lehrjahr\Dammmüller\schule-modul\scholl-grades-library\SchoolGradesLibrary\SchoolGradesLibrary\obj\Debug\SchoolGradesLibrary.pdb
+H:\3. Lehrjahr\Dammmüller\schule-modul\scholl-grades-library\SchoolGradesLibrary\SchoolGradesLibrary\obj\Debug\SchoolGradesLibrary.csproj.AssemblyReference.cache
+H:\3. Lehrjahr\Dammmüller\schule-modul\school-grades-library\SchoolGradesLibrary\SchoolGradesLibrary\bin\Debug\SchoolGradesLibrary.dll
+H:\3. Lehrjahr\Dammmüller\schule-modul\school-grades-library\SchoolGradesLibrary\SchoolGradesLibrary\bin\Debug\SchoolGradesLibrary.pdb
+H:\3. Lehrjahr\Dammmüller\schule-modul\school-grades-library\SchoolGradesLibrary\SchoolGradesLibrary\obj\Debug\SchoolGradesLibrary.csproj.AssemblyReference.cache
+H:\3. Lehrjahr\Dammmüller\schule-modul\school-grades-library\SchoolGradesLibrary\SchoolGradesLibrary\obj\Debug\SchoolGradesLibrary.csproj.CoreCompileInputs.cache
+H:\3. Lehrjahr\Dammmüller\schule-modul\school-grades-library\SchoolGradesLibrary\SchoolGradesLibrary\obj\Debug\SchoolGradesLibrary.dll
+H:\3. Lehrjahr\Dammmüller\schule-modul\school-grades-library\SchoolGradesLibrary\SchoolGradesLibrary\obj\Debug\SchoolGradesLibrary.pdb
